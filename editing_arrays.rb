@@ -8,9 +8,7 @@ rainbow_colors = []
 
 rainbow_colors[0] = "red"
 
-def change_rainbow_colors(rainbow_colors)
-  puts rainbow_colors[0]
-end
+print rainbow_colors
 
 change_rainbow_colors(rainbow_colors)
 
